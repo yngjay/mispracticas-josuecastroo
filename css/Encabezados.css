@@ -1,0 +1,21 @@
+/* Documento css */
+
+body{ background-color: rgb(182, 122, 235); 
+    font-family: "Oswald", sans-serif; }
+
+h1, h3 { color: aquamarine; 
+    font-size: 2em; 
+    text-align: center;
+    font-weight: bold;  
+    text-transform: uppercase;
+    text-decoration: underline;}
+
+h2, h4 { color: green; }
+
+p small{ color: red; }
+
+div p { line-height: 1.5; }
+
+
+
+
